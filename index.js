@@ -1,5 +1,5 @@
 // CONFIG: Your bot server URL to receive webhook updates
-const BOT_UPDATE_FORWARD_URL = 'https://yourdomain.com/my-bot-handler'; // change this
+const BOT_UPDATE_FORWARD_URL = 'https://morning.vorgovsky.workers.dev/mbh';
 
 const TELEGRAM_API_BASE = 'https://api.telegram.org';
 
